@@ -1,6 +1,5 @@
 import React from "react";
 import "./upload.scss";
-import { LoginBg } from "../../../assets";
 
 const Upload = ({ img, ...rest }) => {
   return (
